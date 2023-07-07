@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Points</string>
+    <string name="task_description">Тестовое задание.\nРисует график по точкам с бэкенда. Так же показывает все точки в массиве.</string>
+</resources>
